@@ -7,8 +7,11 @@ https://www.youtube.com/watch?v=lBRnLXwjLw0&ab_channel=DailyTuition
 ## Appendix
 Create env.js file in the root directory and put your own email and password.
 
-module.exports = {
+> module.exports = {
+
     EMAIL : '<YOUR_EMAIL>',
+    
     PASSWORD : '<GMAIL_GENERATED_PASSWORD>'
+    
 }
 
