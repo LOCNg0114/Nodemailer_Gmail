@@ -9,6 +9,8 @@ Create env.js file in the root directory and put your own email and password.
 
 > module.exports = {
 >    EMAIL : '<YOUR_EMAIL>',
+>    
 >   PASSWORD : '<GMAIL_GENERATED_PASSWORD>'
+>   
 >}
 
